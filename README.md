@@ -77,15 +77,14 @@ Embedded-Counter-ATmega32/
 - Re-enable protection after verifying installation is complete and working.
 
 ### 🧰 Recommended IDE
-> ✅ Use an **older version of Eclipse IDE** (e.g., 2020-06 or earlier):
+> ✅ Use an **older version of Eclipse IDE** (e.g., 2024-06 or earlier):
 - Newer versions may not work well with **AVR Eclipse Plugin**.
 - Ensure the **AVR-GCC toolchain** is correctly configured within Eclipse.
 
 ---
 
-## 📷 Screenshots (Optional)
-
-> Add images of the Proteus simulation or real hardware setup here.
+## 📷 Screenshots
+<img width="1595" height="824" alt="image" src="https://github.com/user-attachments/assets/59edaa8b-b756-4894-885a-265155dc7a01" />
 
 ---
 
