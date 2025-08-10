@@ -86,6 +86,10 @@ Embedded-Counter-ATmega32/
 ## 📷 Screenshots
 <img width="1595" height="824" alt="image" src="https://github.com/user-attachments/assets/59edaa8b-b756-4894-885a-265155dc7a01" />
 
+
+https://github.com/user-attachments/assets/248fced7-52b8-4a63-bbf8-08cd0d6c56af
+
+
 ---
 
 ## 📜 License
